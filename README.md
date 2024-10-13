@@ -1,4 +1,4 @@
-## Hi there 👋
+# Hi there 👋, Welcome to my GitHub page
 
 <!--
 **Shreyadoodipala/Shreyadoodipala** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# 💫 About Me:
+## 💫 About Me:
 :computer: Computer Science undergraduate <br>
 :bar_chart: Data Science enthusiast
 
