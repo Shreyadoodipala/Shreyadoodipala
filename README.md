@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 -->
 
 ## 💫 About Me:
+:chart_with_upwards_trend: Financial Engineering graduate <br>
 :computer: Computer Science undergraduate <br>
 :bar_chart: Data Science enthusiast
 
